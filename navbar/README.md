@@ -1,4 +1,5 @@
 ## Task:
+![Navigation menu bar](https://github.com/furytale/goit/blob/master/navbar/nav.png "Navigation menu bar")
 ## 1. Create navigation bar
  - Use the next html tags:
  - ```<h4>``` for navigation menu title
