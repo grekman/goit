@@ -10,15 +10,11 @@
 Example of code structure, you can find on:
 (http://codepen.io/chriscoyier/pen/vOMBxp)
 
-|   |  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 ### Navigation menu view structure:
------------- | ------------- | ------------- | ------------- 
-Navigation Title |  Home Link | Link1 | Link2 | Link3
+---------------------------------------------------------
+| Navigation Title |  Home Link | Link1 | Link2 | Link3 |
+---------------------------------------------------------
 
 View example: (http://getbootstrap.com/2.3.2/components.html#navbar)
 
