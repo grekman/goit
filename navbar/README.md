@@ -11,8 +11,14 @@ Example of code structure, you can find on:
 (http://codepen.io/chriscoyier/pen/vOMBxp)
 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ### Navigation menu view structure:
------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- 
 Navigation Title |  Home Link | Link1 | Link2 | Link3
 
 View example: (http://getbootstrap.com/2.3.2/components.html#navbar)
