@@ -11,7 +11,7 @@ Example of code structure, you can find on:
 (http://codepen.io/chriscoyier/pen/vOMBxp)
 
 
- | 
+             |              
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
