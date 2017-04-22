@@ -15,6 +15,6 @@ Example of code structure, you can find on:
 
 Navigation Title |  Home Link | Link1 | Link2 | Link3
 
-View example: (like ~~http://getbootstrap.com/2.3.2/components.html#navbar~~)
+View example: (like http://getbootstrap.com/2.3.2/components.html#navbar)
 
 2. Create 2 themes (black and white) for navigation menu.  - Each theme has it’s different: background-color, text color.  - As an example, see: https://bootswatch.com/default/#navbar 
