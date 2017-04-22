@@ -10,6 +10,7 @@
 Example of code structure, you can find on:
 (http://codepen.io/chriscoyier/pen/vOMBxp)
 
+|   |  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
