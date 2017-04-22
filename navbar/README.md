@@ -1,5 +1,5 @@
 ## Task:
-1. Create navigation bar
+## 1. Create navigation bar
  - Use the next html tags:
  - ```<h4>``` for navigation menu title
  - ```<nav>``` fro navigation container
@@ -12,10 +12,8 @@ Example of code structure, you can find on:
 
 
 ### Navigation menu view structure:
---------------------------------------------------------
-  Navigation Title |  Home Link | Link1 | Link2 | Link3  
---------------------------------------------------------
+######  Navigation Title |  Home Link | Link1 | Link2 | Link3  
 
 View example: (http://getbootstrap.com/2.3.2/components.html#navbar)
 
-2. Create 2 themes (black and white) for navigation menu.  - Each theme has it’s different: background-color, text color.  - As an example, see: https://bootswatch.com/default/#navbar 
+## 2. Create 2 themes (black and white) for navigation menu.  - Each theme has it’s different: background-color, text color.  - As an example, see: https://bootswatch.com/default/#navbar 
