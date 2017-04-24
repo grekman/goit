@@ -1,5 +1,5 @@
 ## Task:
-![Chip component](https://github.com/furytale/goit/blob/master/chip/nav.chip "Chip component")
+![Chip component](https://github.com/furytale/goit/blob/master/chip/chip.png "Chip component")
 ## 1. Create the chip component
  - Use the next html tags:
  - ```<div>``` for chip container
