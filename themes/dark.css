@@ -1,0 +1,29 @@
+.nav-container {
+    background-color: #333;
+}
+
+.nav-container h4 {
+    border-right: 1px solid #FFFFFF;
+}
+
+.nav-container h4 a {
+  color: #FFFFFF;
+}
+
+li a, .dropbtn {
+    color: #FFFFFF;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #F1F1F5;
+    color: #000000;
+}
+
+.dropdown-content a {
+    color: #000000;
+}
+
+.dropdown-content a:hover {
+  background-color: #F6F6F6;
+  color: #000000;
+}

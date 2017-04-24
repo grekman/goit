@@ -1,0 +1,12 @@
+.chip {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.closebtn {
+    color: #333;
+}
+
+.closebtn:hover {
+    color: red;
+}
